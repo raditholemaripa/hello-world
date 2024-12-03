@@ -2,5 +2,5 @@
 learning how to create a repository
 
 Hello there, I was learning how to create a repository on github,
-I code in python, C++, and do a little bit of C#.
-I like data science and would love to work on projects related to data science. 
+I code in C/C++, Java, and Python.
+I am interested in Embedded Systems, Android Applications and Web Development.
